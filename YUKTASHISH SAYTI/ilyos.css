@@ -1,0 +1,168 @@
+* {
+  text-decoration: none;
+  justify-content: space-around;
+}
+
+header {
+  background-size: cover;
+  background-image: url(./75ae05112787439\ 1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+nav {
+
+  height: 600px;
+  display: flex;
+  justify-content: space-around;
+}
+
+nav ul {
+  width: 660px;
+  height: 24px;
+  display: flex;
+  justify-content: space-around;
+}
+
+nav .ul li {
+  display: flex;
+  justify-content: space-between;
+  width: 663;
+}
+
+ul li {
+  list-style: none;
+}
+
+ul li a {
+  color: bisque;
+}
+
+.rel {
+  color: white;
+  position: absolute;
+  left: 250px;
+  bottom: 200px;
+}
+
+.rel button {
+  background-color: #114e86;
+  width: 200px;
+  height: 62px;
+  border-radius: 5px;
+  color: white;
+}
+
+.menu {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.menu p {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+  margin-left: 420px;
+  text-align: left;
+}
+
+.menu2 h1 {
+  text-align: center;
+}
+
+.menu2 {
+  margin-top: 100px;
+}
+
+.menu3 {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.llyos1 {
+  width: 350px;
+  height: 450px;
+}
+
+.llyos2 {
+  color: white;
+  border-radius: 8px;
+  background-color: rgb(26, 26, 154);
+  border: 2px solid yellowgreen;
+  width: 350px;
+  height: 450px;
+}
+
+.llyos3 {
+  border-radius: 8px;
+  border: 2px solid black;
+  width: 350px;
+  height: 450px;
+}
+.menu4 {
+  display: flex;
+  margin-top: 120px;
+  background-color: #000000;
+  height: 600px;
+}
+
+.menu5{
+  color: white;
+}
+.aloqa {
+  color: white;
+}
+
+.aloqa h2 {
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+.aloqa img {
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+.aloqa h3 {
+  position: relative;
+  left: 150px;
+  bottom: 50px;
+}
+
+.aloqa p {
+  margin-left: 100px;
+  margin-top: 70px;
+}
+
+
+
+
+
+.menu6 .active1 {
+  margin-top: 10px;
+}
+
+.menu6 .active2 {
+  margin-top: 50px;
+}
+
+.menu6 .data {
+  margin-top: 50px;
+}
+
+.menu6 button {
+  border: 2px solid white;
+  color: white;
+ 
+  margin-top: 25px;
+  width: 300px;
+  height: 40px;
+  border-radius: 5px;
+}
+
+
+.menu h1 {
+  margin: auto;
+}
